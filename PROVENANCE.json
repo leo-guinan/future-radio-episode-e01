@@ -1,0 +1,40 @@
+{
+  "files": {
+    "cast/borges.md": {
+      "repo": "dressing-room-borges",
+      "sha": "9f38e8e23c213ced6b78abc231492066b692d3e8",
+      "sources": [
+        "CHARACTER.md",
+        "bible/bible.json",
+        "memory/notes.md",
+        "history/appearances/E01-v1.md"
+      ],
+      "sha256": "cf61b162e7723a573d01ea18123f93ee1195c222d94cda827759863f0b93c0c5",
+      "projectedAt": "2026-10-28T02:22:38.380Z"
+    },
+    "cast/leonardo.md": {
+      "repo": "dressing-room-leonardo",
+      "sha": "e171e0462f325dc7bd8fea3f94a8bac45804e44e",
+      "sources": [
+        "CHARACTER.md",
+        "bible/bible.json",
+        "memory/notes.md",
+        "history/appearances/E01-v1.md"
+      ],
+      "sha256": "6b8e47566631ef845d6dfe165ceb21bbded0c26e2142526bfac882b1009aea0a",
+      "projectedAt": "2026-10-28T02:22:38.405Z"
+    },
+    "cast/agnolo.md": {
+      "repo": "dressing-room-agnolo",
+      "sha": "0979ec79fe4d39439a5472e225907f808d2c5464",
+      "sources": [
+        "CHARACTER.md",
+        "bible/bible.json",
+        "memory/notes.md",
+        "history/appearances/E01-v1.md"
+      ],
+      "sha256": "987a84035d2b0a952620af8292025b26b324c449398667a6abb8b6d97d4763b4",
+      "projectedAt": "2026-10-28T02:22:38.428Z"
+    }
+  }
+}
