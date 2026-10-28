@@ -21,3 +21,5 @@ Florence, 1504. Leonardo builds a machine meant to translate his ideas. Instead 
 
 This episode was made before the writers' room existed and was imported from its production
 record. The release is locked: later episodes can answer it, never rewrite it.
+
+License: [CC0 1.0](LICENSE). Public domain; use it, change it, ship it.
